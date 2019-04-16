@@ -6,7 +6,7 @@ import java.lang.reflect.Proxy;
 import staticProxy.Car;
 import staticProxy.Moverable;
 
-public class dynamicClient {
+public class DynamicClient {
 
 	public static void main(String[] args) {
 //		Moverable m=new Car();
